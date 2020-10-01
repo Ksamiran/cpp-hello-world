@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-printf("hell");
+printf("hell\n yess");
 return 0;
 
 }
