@@ -2,7 +2,6 @@
 using namespace std;
 int main()
 {
-printf("hell\n yess");
+printf("Hello World!");
 return 0;
-
 }
